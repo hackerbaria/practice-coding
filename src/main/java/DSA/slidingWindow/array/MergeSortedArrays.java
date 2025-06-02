@@ -19,6 +19,10 @@ public class MergeSortedArrays {
     // if(a[i] < b[j])  --> result[k++] = a[i++]: result[k++] = b[j++]
     // we also need to copy the remain elements from a to the result if any
     // we also need to copy the remain elements from b to the result if any
+
+    // This algorithm:
+    // using three pointers, i, j, k
+    // 1. create a new array to store the result
     private static int[] mergeSortedArrays(int[] a, int[] b) {
         int n = a.length;
         int m = b.length;
