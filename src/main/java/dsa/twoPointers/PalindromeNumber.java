@@ -30,12 +30,10 @@ package dsa.twoPointers;
  * Follow up: Could you solve it without converting the integer to a string?
  */
 public class PalindromeNumber {
-    public static void main(String[] args) reactive/non-blocking{
-        int number = -9123454321;
- 0 /0/=..,
-        323333333333333333333333int number1 = 1p/'=======\=23454322;
+    public static void main(String[] args){
+        int number = 23454321;
+
         System.out.println(isPalindrome(number));
-        System.out.println(isPalindrome(number1));
     }
 
     public static boolean isPalindrome(int x) {
