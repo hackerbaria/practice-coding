@@ -1,4 +1,4 @@
-package DSA.slidingWindow.array;
+package dsa.slidingWindow.array;
 
 public class RevertString {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package DSA.slidingWindow.hashtable;
+package dsa.slidingWindow.hashtable;
 
 import java.util.HashSet;
 import java.util.Set;

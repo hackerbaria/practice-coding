@@ -1,4 +1,4 @@
-package DSA.common;
+package dsa.common;
 
 public class SellStock {
 

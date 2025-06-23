@@ -1,4 +1,4 @@
-package DSA.slidingWindow;
+package dsa.common;
 
 import java.util.HashSet;
 

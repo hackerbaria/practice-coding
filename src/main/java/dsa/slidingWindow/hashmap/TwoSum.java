@@ -1,4 +1,4 @@
-package DSA.slidingWindow.hashmap;
+package dsa.slidingWindow.hashmap;
 
 public class TwoSum {
     public static void main(String[] args) {
